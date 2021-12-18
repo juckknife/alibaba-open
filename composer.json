@@ -1,5 +1,5 @@
 {
-  "name": "javareact/alibaba_open",
+  "name": "juckknife/alibaba_open",
   "description": "阿里巴巴开放平台sdk ，签名算法",
   "type": "library",
   "license": "MIT",
@@ -11,8 +11,8 @@
   ],
   "authors": [
     {
-      "name": "javareact",
-      "email": "javareact@gmail.com"
+      "name": "juckknife",
+      "email": "juckknife@163.com"
     }
   ],
   "require": {
