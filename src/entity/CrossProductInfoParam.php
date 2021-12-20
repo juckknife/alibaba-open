@@ -1,5 +1,5 @@
 <?php
-namespace JavaReact\AlibabaOpen\entity;
+namespace Juckknife\AlibabaOpen\entity;
 
 /**
  * 跨境场景

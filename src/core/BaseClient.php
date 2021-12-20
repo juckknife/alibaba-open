@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\core;
+namespace Juckknife\AlibabaOpen\core;
 
 /**
  * Class BaseClient
- * @package JavaReact\AlibabaOpen\core
- * @property \JavaReact\AlibabaOpen\AlibabaClient app
+ * @package Juckknife\AlibabaOpen\core
+ * @property \Juckknife\AlibabaOpen\AlibabaClient app
  */
 class BaseClient
 {

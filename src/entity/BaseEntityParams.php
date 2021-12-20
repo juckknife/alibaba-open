@@ -1,8 +1,8 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\entity;
+namespace Juckknife\AlibabaOpen\entity;
 
-use JavaReact\AlibabaOpen\interfaces\Params;
+use Juckknife\AlibabaOpen\interfaces\Params;
 
 abstract class BaseEntityParams implements Params
 {

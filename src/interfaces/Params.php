@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\interfaces;
+namespace Juckknife\AlibabaOpen\interfaces;
 
 interface Params
 {

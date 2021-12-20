@@ -1,12 +1,12 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\core;
+namespace Juckknife\AlibabaOpen\core;
 
 
 /**
  * Class Exception
- * @package JavaReact\AlibabaOpen\core
+ * @package Juckknife\AlibabaOpen\core
  */
 class Exception extends \Exception
 {

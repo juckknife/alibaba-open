@@ -1,17 +1,17 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\functions\order;
+namespace Juckknife\AlibabaOpen\functions\order;
 
-use JavaReact\AlibabaOpen\core\BaseClient;
-use JavaReact\AlibabaOpen\entity\AddressCodeChildParams;
-use JavaReact\AlibabaOpen\entity\AddressCodeGetParams;
-use JavaReact\AlibabaOpen\entity\AddressCodeParseParams;
-use JavaReact\AlibabaOpen\entity\LogisticsInfosParams;
-use JavaReact\AlibabaOpen\entity\LogisticsTraceInfoParams;
+use Juckknife\AlibabaOpen\core\BaseClient;
+use Juckknife\AlibabaOpen\entity\AddressCodeChildParams;
+use Juckknife\AlibabaOpen\entity\AddressCodeGetParams;
+use Juckknife\AlibabaOpen\entity\AddressCodeParseParams;
+use Juckknife\AlibabaOpen\entity\LogisticsInfosParams;
+use Juckknife\AlibabaOpen\entity\LogisticsTraceInfoParams;
 
 /**
  * 物流模块
- * @package JavaReact\AlibabaOpen\functions\order
+ * @package Juckknife\AlibabaOpen\functions\order
  */
 class Logistics extends BaseClient
 {

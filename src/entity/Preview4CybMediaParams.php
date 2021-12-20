@@ -1,6 +1,6 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\entity;
+namespace Juckknife\AlibabaOpen\entity;
 
 class Preview4CybMediaParams extends BaseEntityParams
 {

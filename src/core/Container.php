@@ -1,11 +1,11 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\core;
+namespace Juckknife\AlibabaOpen\core;
 
 
 /**
  * Class Container
- * @package JavaReact\AlibabaOpen\core
+ * @package Juckknife\AlibabaOpen\core
  */
 class Container implements \ArrayAccess
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\interfaces;
+namespace Juckknife\AlibabaOpen\interfaces;
 
-use JavaReact\AlibabaOpen\core\Container;
+use Juckknife\AlibabaOpen\core\Container;
 
 /**
  * Interface Provider
- * @package JavaReact\AlibabaOpen\interfaces
+ * @package Juckknife\AlibabaOpen\interfaces
  */
 interface Provider
 {

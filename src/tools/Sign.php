@@ -1,6 +1,6 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\tools;
+namespace Juckknife\AlibabaOpen\tools;
 
 final class Sign
 {

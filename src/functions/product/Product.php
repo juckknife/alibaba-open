@@ -1,21 +1,21 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\functions\product;
+namespace Juckknife\AlibabaOpen\functions\product;
 
-use JavaReact\AlibabaOpen\core\BaseClient;
-use JavaReact\AlibabaOpen\entity\CpsMediaProductInfoParams;
-use JavaReact\AlibabaOpen\entity\GetCategoryByIdParams;
-use JavaReact\AlibabaOpen\entity\ListCybUserGroupParams;
-use JavaReact\AlibabaOpen\entity\ListCybUserGroupFeedParams;
-use JavaReact\AlibabaOpen\entity\ListOverPricedOfferParams;
-use JavaReact\AlibabaOpen\entity\ProductFollowParams;
-use JavaReact\AlibabaOpen\entity\ProductUnfollowParams;
-use JavaReact\AlibabaOpen\entity\QueryOfferDetailActivityParams;
-use JavaReact\AlibabaOpen\entity\CrossProductInfoParam;
+use Juckknife\AlibabaOpen\core\BaseClient;
+use Juckknife\AlibabaOpen\entity\CpsMediaProductInfoParams;
+use Juckknife\AlibabaOpen\entity\GetCategoryByIdParams;
+use Juckknife\AlibabaOpen\entity\ListCybUserGroupParams;
+use Juckknife\AlibabaOpen\entity\ListCybUserGroupFeedParams;
+use Juckknife\AlibabaOpen\entity\ListOverPricedOfferParams;
+use Juckknife\AlibabaOpen\entity\ProductFollowParams;
+use Juckknife\AlibabaOpen\entity\ProductUnfollowParams;
+use Juckknife\AlibabaOpen\entity\QueryOfferDetailActivityParams;
+use Juckknife\AlibabaOpen\entity\CrossProductInfoParam;
 
 /**
  * 产品模块
- * @package JavaReact\AlibabaOpen\functions\product
+ * @package Juckknife\AlibabaOpen\functions\product
  */
 class Product extends BaseClient
 {

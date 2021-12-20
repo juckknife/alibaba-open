@@ -1,10 +1,10 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\core;
+namespace Juckknife\AlibabaOpen\core;
 
 /**
  * Class ContainerBase
- * @package JavaReact\AlibabaOpen\core
+ * @package Juckknife\AlibabaOpen\core
  */
 class ContainerBase extends Container
 {

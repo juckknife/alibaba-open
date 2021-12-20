@@ -2,21 +2,21 @@
 
 namespace Test\AlibabaOpen;
 
-use JavaReact\AlibabaOpen\AlibabaClient;
-use JavaReact\AlibabaOpen\entity\AddressCodeGetParams;
-use JavaReact\AlibabaOpen\entity\CpsMediaProductInfoParams;
-use JavaReact\AlibabaOpen\entity\GetCategoryByIdParams;
-use JavaReact\AlibabaOpen\entity\ListCybUserGroupFeedParams;
-use JavaReact\AlibabaOpen\entity\ListCybUserGroupParams;
-use JavaReact\AlibabaOpen\entity\ListOverPricedOfferParams;
-use JavaReact\AlibabaOpen\entity\LogisticsInfosParams;
-use JavaReact\AlibabaOpen\entity\LogisticsTraceInfoParams;
-use JavaReact\AlibabaOpen\entity\OrderDetailParams;
-use JavaReact\AlibabaOpen\entity\ProtocolPayParams;
-use JavaReact\AlibabaOpen\entity\QueryOfferDetailActivityParams;
-use JavaReact\AlibabaOpen\entity\QueryOrderRefundOperationListParams;
-use JavaReact\AlibabaOpen\entity\QueryOrderRefundParams;
-use JavaReact\AlibabaOpen\entity\UploadRefundVoucherParams;
+use Juckknife\AlibabaOpen\AlibabaClient;
+use Juckknife\AlibabaOpen\entity\AddressCodeGetParams;
+use Juckknife\AlibabaOpen\entity\CpsMediaProductInfoParams;
+use Juckknife\AlibabaOpen\entity\GetCategoryByIdParams;
+use Juckknife\AlibabaOpen\entity\ListCybUserGroupFeedParams;
+use Juckknife\AlibabaOpen\entity\ListCybUserGroupParams;
+use Juckknife\AlibabaOpen\entity\ListOverPricedOfferParams;
+use Juckknife\AlibabaOpen\entity\LogisticsInfosParams;
+use Juckknife\AlibabaOpen\entity\LogisticsTraceInfoParams;
+use Juckknife\AlibabaOpen\entity\OrderDetailParams;
+use Juckknife\AlibabaOpen\entity\ProtocolPayParams;
+use Juckknife\AlibabaOpen\entity\QueryOfferDetailActivityParams;
+use Juckknife\AlibabaOpen\entity\QueryOrderRefundOperationListParams;
+use Juckknife\AlibabaOpen\entity\QueryOrderRefundParams;
+use Juckknife\AlibabaOpen\entity\UploadRefundVoucherParams;
 
 /**
  * Class OrderTest

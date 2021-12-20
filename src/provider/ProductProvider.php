@@ -1,13 +1,13 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\provider;
+namespace Juckknife\AlibabaOpen\provider;
 
 
-use JavaReact\AlibabaOpen\core\Container;
-use JavaReact\AlibabaOpen\functions\order\Logistics;
-use JavaReact\AlibabaOpen\functions\product\Product;
-use JavaReact\AlibabaOpen\interfaces\Provider;
+use Juckknife\AlibabaOpen\core\Container;
+use Juckknife\AlibabaOpen\functions\order\Logistics;
+use Juckknife\AlibabaOpen\functions\product\Product;
+use Juckknife\AlibabaOpen\interfaces\Provider;
 
 class ProductProvider implements Provider
 {

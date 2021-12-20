@@ -1,17 +1,17 @@
 <?php
 
-namespace JavaReact\AlibabaOpen;
+namespace Juckknife\AlibabaOpen;
 
-use JavaReact\AlibabaOpen\core\ContainerBase;
-use JavaReact\AlibabaOpen\provider\ProductProvider;
-use JavaReact\AlibabaOpen\provider\StoreProvider;
+use Juckknife\AlibabaOpen\core\ContainerBase;
+use Juckknife\AlibabaOpen\provider\ProductProvider;
+use Juckknife\AlibabaOpen\provider\StoreProvider;
 
 /**
  * Class Application
- * @property \JavaReact\AlibabaOpen\functions\product\Product product
- * @property \JavaReact\AlibabaOpen\functions\order\Order order
- * @property \JavaReact\AlibabaOpen\functions\order\Logistics logistics
- * @property \JavaReact\AlibabaOpen\functions\order\Refund refund
+ * @property \Juckknife\AlibabaOpen\functions\product\Product product
+ * @property \Juckknife\AlibabaOpen\functions\order\Order order
+ * @property \Juckknife\AlibabaOpen\functions\order\Logistics logistics
+ * @property \Juckknife\AlibabaOpen\functions\order\Refund refund
  */
 class AlibabaClient extends ContainerBase
 {

@@ -1,15 +1,15 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\provider;
+namespace Juckknife\AlibabaOpen\provider;
 
-use JavaReact\AlibabaOpen\core\Container;
-use JavaReact\AlibabaOpen\functions\order\Order;
-use JavaReact\AlibabaOpen\functions\order\Refund;
-use JavaReact\AlibabaOpen\interfaces\Provider;
+use Juckknife\AlibabaOpen\core\Container;
+use Juckknife\AlibabaOpen\functions\order\Order;
+use Juckknife\AlibabaOpen\functions\order\Refund;
+use Juckknife\AlibabaOpen\interfaces\Provider;
 
 /**
  * Class StoreProvider
- * @package JavaReact\AlibabaOpen\provider
+ * @package Juckknife\AlibabaOpen\provider
  */
 class StoreProvider implements Provider
 {

@@ -1,18 +1,18 @@
 <?php
 
-namespace JavaReact\AlibabaOpen\functions\order;
+namespace Juckknife\AlibabaOpen\functions\order;
 
-use JavaReact\AlibabaOpen\core\BaseClient;
-use JavaReact\AlibabaOpen\entity\CancelTradeParams;
-use JavaReact\AlibabaOpen\entity\CreateOrder4CybMediaParams;
-use JavaReact\AlibabaOpen\entity\OrderDetailParams;
-use JavaReact\AlibabaOpen\entity\OrderListParams;
-use JavaReact\AlibabaOpen\entity\Preview4CybMediaParams;
-use JavaReact\AlibabaOpen\entity\ProtocolPayParams;
+use Juckknife\AlibabaOpen\core\BaseClient;
+use Juckknife\AlibabaOpen\entity\CancelTradeParams;
+use Juckknife\AlibabaOpen\entity\CreateOrder4CybMediaParams;
+use Juckknife\AlibabaOpen\entity\OrderDetailParams;
+use Juckknife\AlibabaOpen\entity\OrderListParams;
+use Juckknife\AlibabaOpen\entity\Preview4CybMediaParams;
+use Juckknife\AlibabaOpen\entity\ProtocolPayParams;
 
 /**
  * 订单模块
- * @package JavaReact\AlibabaOpen\functions\order
+ * @package Juckknife\AlibabaOpen\functions\order
  */
 class Order extends BaseClient
 {

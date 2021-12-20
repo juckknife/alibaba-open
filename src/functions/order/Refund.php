@@ -1,19 +1,19 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\functions\order;
+namespace Juckknife\AlibabaOpen\functions\order;
 
-use JavaReact\AlibabaOpen\core\BaseClient;
-use JavaReact\AlibabaOpen\entity\CreateRefundParams;
-use JavaReact\AlibabaOpen\entity\QueryOrderRefundOperationListParams;
-use JavaReact\AlibabaOpen\entity\QueryOrderRefundParams;
-use JavaReact\AlibabaOpen\entity\RefundReasonListParams;
-use JavaReact\AlibabaOpen\entity\ReturnGoodsParams;
-use JavaReact\AlibabaOpen\entity\UploadRefundVoucherParams;
+use Juckknife\AlibabaOpen\core\BaseClient;
+use Juckknife\AlibabaOpen\entity\CreateRefundParams;
+use Juckknife\AlibabaOpen\entity\QueryOrderRefundOperationListParams;
+use Juckknife\AlibabaOpen\entity\QueryOrderRefundParams;
+use Juckknife\AlibabaOpen\entity\RefundReasonListParams;
+use Juckknife\AlibabaOpen\entity\ReturnGoodsParams;
+use Juckknife\AlibabaOpen\entity\UploadRefundVoucherParams;
 
 /**
  * 退货模块
- * @package JavaReact\AlibabaOpen\functions\order
+ * @package Juckknife\AlibabaOpen\functions\order
  */
 class Refund extends BaseClient
 {

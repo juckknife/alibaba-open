@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JavaReact\AlibabaOpen\entity;
+namespace Juckknife\AlibabaOpen\entity;
 
 
 class CreateRefundParams extends BaseEntityParams
